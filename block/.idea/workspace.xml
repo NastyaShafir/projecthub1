@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f98219e9-2d9a-4ec0-88ff-a3d3fda5e88d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c5BTOmsvI731XQmkvIt8Mw25LF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98219e9-2d9a-4ec0-88ff-a3d3fda5e88d" name="Default Changelist" comment="" />
+      <created>1589808581649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589808581649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="771" height="205" key="GridCell.Tab.0.bottom" timestamp="1591048898106">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="771" height="205" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1591048898106" />
+    <state width="771" height="205" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589809663837" />
+    <state width="771" height="205" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1590415150778" />
+    <state width="771" height="205" key="GridCell.Tab.0.center" timestamp="1591048898105">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="771" height="205" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1591048898105" />
+    <state width="771" height="205" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1589809663836" />
+    <state width="771" height="205" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1590415150774" />
+    <state width="771" height="205" key="GridCell.Tab.0.left" timestamp="1591048898104">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="771" height="205" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1591048898104" />
+    <state width="771" height="205" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589809663835" />
+    <state width="771" height="205" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1590415150773" />
+    <state width="771" height="205" key="GridCell.Tab.0.right" timestamp="1591048898106">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="771" height="205" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1591048898106" />
+    <state width="771" height="205" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1589809663837" />
+    <state width="771" height="205" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1590415150775" />
+    <state x="826" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1589808616170">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="826" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1589808616169" />
+  </component>
+</project>
